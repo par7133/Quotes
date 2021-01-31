@@ -1,0 +1,1 @@
+BUGS: rm command probably should ask whether a read-only file is really to be removed. Manual page for rm command, Unix 1971
